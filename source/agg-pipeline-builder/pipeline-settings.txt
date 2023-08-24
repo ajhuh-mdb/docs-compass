@@ -36,13 +36,13 @@ the upper right of the pipeline builder to open the :guilabel:`Settings` panel.
      - Enabled 
 
    * - Number of Preview Documents 
-     - Sets number of documents to show in the preview. 
+     - Sets the number of documents to show in the preview. 
      - 10
 
    * - Limit 
      - Specifies the number of documents passed to :pipeline:`$group`, 
        :pipeline:`$bucket`, and :pipeline:`$bucketAuto` pipeline stages. Lower 
-       limits improve pipeline run time but might result in missing documents. 
+       limits improve pipeline run time, but might result in missing documents. 
        
        .. note:: 
         

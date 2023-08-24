@@ -390,4 +390,4 @@ Learn More
    /agg-pipeline-builder/pipeline-custom-collation
    /agg-pipeline-builder/maxtime-ms-pipeline
    /agg-pipeline-builder/export-pipeline-results
-   /agg-pipeline-builder/aggregation-pipeline-builder-settings
+   /agg-pipeline-builder/pipeline-settings
